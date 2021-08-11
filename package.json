@@ -1,6 +1,6 @@
 {
   "name": "markdown-magic-block",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Automatically update markdown files with content from external sources",
   "main": "index.js",
   "bin": {
@@ -21,10 +21,6 @@
   "author": "David Wells",
   "license": "MIT",
   "homepage": "https://github.com/DavidWells/markdown-magic#readme",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/DavidWells/markdown-magic"
-  },
   "dependencies": {
     "@technote-space/doctoc": "^2.4.7",
     "commander": "^7.2.0",
